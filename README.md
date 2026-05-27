@@ -25,8 +25,6 @@
     <sup>2</sup>Tsinghua University&nbsp;&nbsp;&nbsp;&nbsp;
     <sup>3</sup>University of Toronto&nbsp;&nbsp;&nbsp;&nbsp;
     <sup>4</sup>Vector Institute
-    <br>
-    <sup>*</sup>Equal contribution. <sup>†</sup>Joint advising.
 </p>
 
 <a href="https://research.nvidia.com/labs/sil/projects/gamma-world/"><img src="https://img.shields.io/badge/Project-Page-Green"></a> &nbsp;&nbsp;&nbsp;&nbsp;
