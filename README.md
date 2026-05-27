@@ -50,9 +50,7 @@
 
 γ-World interactively generates coherent future frames from multi-agent actions while preserving shared-world consistency, scaling from multiplayer virtual games to real-world multi-robot environments.
 
-<p align="center">
-    <video src="assets/gamma-world-video.mp4" width="90%" autoplay muted loop playsinline controls></video>
-</p>
+https://github.com/user-attachments/assets/11a81855-5b51-4117-bfcd-ef07246e0a4e
 
 ## 📖 Abstract
 
