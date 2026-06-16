@@ -119,4 +119,4 @@ The authors would like to thank Product Managers Aditya Mahajan and Matt Cragun 
 
 ## License
 
-γ-World will be released under the Apache License 2.0. Final license terms will be confirmed at the code release.
+This project is licensed under the [Apache License 2.0](LICENSE).
