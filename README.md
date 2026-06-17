@@ -40,15 +40,19 @@
 
 ## 📢 News
 
+- 🚀[06/16/2026] We release the γ-World code and training pipeline.
 - 🚀[05/28/2026] We release γ-World with the project page, paper, videos, qualitative results, and method overview.
-- 🔜[Coming Soon] We will release the code and distilled streaming checkpoints with KV cache support.
-- ⏳[Planned] Training scripts and dataset preparation tools will be released in a future update.
 
 ## 🌟 Overview
 
 γ-World interactively generates coherent future frames from multi-agent actions while preserving shared-world consistency, scaling from multiplayer virtual games to real-world multi-robot environments.
 
 https://github.com/user-attachments/assets/11a81855-5b51-4117-bfcd-ef07246e0a4e
+
+## 📦 User Guide
+
+- [Setup](docs/setup.md) — environment and dependencies
+- [Training](docs/training.md) — convert a released checkpoint to DCP and train the teacher / causal / DMD stages
 
 ## 📖 Abstract
 
@@ -115,8 +119,8 @@ If you find γ-World useful for your research or applications, please cite our p
 
 ## Acknowledgements
 
-The authors would like to thank Product Managers Aditya Mahajan and Matt Cragun for their valuable support and guidance, Jingnan Gao for proof discussion, and Yixin Hong for demo creation.
+The authors would like to thank Product Managers Aditya Mahajan and Matt Cragun for their valuable support and guidance, Jingnan Gao for proof discussion, Yixin Hong for demo creation, and Jiawei Chi and Weiliang Chen for training support.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+Gamma-World codebase is licensed under the [Apache License 2.0](LICENSE).
