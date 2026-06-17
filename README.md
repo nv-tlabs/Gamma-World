@@ -52,6 +52,7 @@ https://github.com/user-attachments/assets/11a81855-5b51-4117-bfcd-ef07246e0a4e
 ## 📦 User Guide
 
 - [Setup](docs/setup.md) — environment and dependencies
+- [Inference](docs/inference.md) — run the bidirectional, causal, and causal-few-step models on your own init frames and actions
 - [Training](docs/training.md) — convert a released checkpoint to DCP and train the teacher / causal / DMD stages
 
 ## 📖 Abstract
